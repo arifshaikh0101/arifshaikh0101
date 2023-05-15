@@ -10,6 +10,6 @@
 - <b>STORE DATA SALES ANALYSIS IN EXCEL</b>
   - [Store Data Sales Analysis](https://github.com/arifshaikh0101/STORE-DATA-SALES-ANALYSIS)
 - <b>Revenue Insights in Power Bi</b>
-  - [Revenue Insights in Power Bi]() 
+  - [Revenue Insights in Power Bi](https://github.com/arifshaikh0101/Revenue-Insights-In-Power-Bi) 
   
 
