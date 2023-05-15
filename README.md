@@ -9,5 +9,7 @@
   - [USA States Accident Data Analysis](https://github.com/arifshaikh0101/USA-ACCIDENTS-DATA-ANALYSIS-)
 - <b>STORE DATA SALES ANALYSIS IN EXCEL</b>
   - [Store Data Sales Analysis](https://github.com/arifshaikh0101/STORE-DATA-SALES-ANALYSIS)
+- <b>Revenue Insights in Power Bi</b>
+  - [Revenue Insights in Power Bi]() 
   
 
